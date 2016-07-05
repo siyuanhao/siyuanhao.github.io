@@ -2,6 +2,12 @@ gittest
 Git is a distributed version control system.
 Git is free software. version 3
 Git has a mutable index called stage.
+<<<<<<< HEAD
 Git tracks changes.
 Creating a new branch is quick & simple.
 
+=======
+Git tracks changes
+Creating a new branch is quick AND simple.
+.
+>>>>>>> dev2
